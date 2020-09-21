@@ -25,3 +25,13 @@ print('hello world')
 print('adding to somef branch')
 
 print('now adding to somef branch')
+
+'''
+when you generate a pull request on the website it is working with the remote
+server and you will not see any changes in the local folder in which you have 
+stored the file
+
+to find the changes in the local server use
+
+git pull
+'''
