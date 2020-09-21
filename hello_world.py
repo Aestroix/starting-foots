@@ -18,6 +18,6 @@ git branch <branch_name>: to add a branch
 git checkout <branch_name>: to change branch
 git merge <branch_name>: to merge a branch to current branch
 
-git -am command to do everything at once 
+git commit -am command to do everything at once 
 '''
 print('hello world')
