@@ -21,3 +21,5 @@ git merge <branch_name>: to merge a branch to current branch
 git commit -am command to do everything at once 
 '''
 print('hello world')
+
+print('adding to somef branch')
